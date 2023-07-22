@@ -13,7 +13,7 @@ Currently keen on developing web applications and have already completed project
   <img src="/images/java.png" width="48" title="React" alt="Java" />
   <img src="/images/jakarta.png" width="48" title="React" alt="Jakarta" />
   <img src="/images/django.png" width="48" title="React" alt="Django" />
-  <img src="/images/djangorest.png" width="48" title="React" alt="Django REST API" />
+  <img src="/images/djangorest.jpg" width="48" title="React" alt="Django REST API" />
   <img src="/images/fastapi.png" width="48" title="React" alt="FastAPI" />
   <img src="/images/gunicorn.png" width="48" title="React" alt="Gunicorn" />
   <img src="/images/mongo.png" width="48" title="React" alt="MongoDB" />
@@ -24,7 +24,7 @@ Currently keen on developing web applications and have already completed project
   <img src="/images/docker.png" width="48" title="React" alt="Docker" />
   <img src="/images/dockercompose.png" width="48" title="React" alt="Docker-compose" />
   <img src="/images/nginx.png" width="48" title="React" alt="NGINX" />
-  <img src="/images/aws.png" width="48" title="React" alt="AWS" />
+  <img src="/images/aws_ec2.png" width="48" title="React" alt="AWS EC2" />
   <img src="/images/stripe.png" width="48" title="React" alt="Stripe Integration" />
   <img src="/images/linux.png" width="48" title="React" alt="Linux" />
 </span>
