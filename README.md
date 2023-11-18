@@ -5,7 +5,7 @@ In the past I used to build game plugins with IoT features, desktop applications
 
 Currently keen on developing web applications and have already completed projects using:
 
-## Skills
+## Technologies 
 
 <span>
   <img src="/images/python.png" width="48" height="48" title="React" alt="Python" />
